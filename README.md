@@ -47,7 +47,13 @@
 *Note: While not shown above, I'm proficient with AI agentic frameworks like **LangChain**, **LangGraph**, and **CrewAI**.*
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushpatel2443-arch&show_icons=true&locale=en&layout=compact" alt="github-stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushpatel1234&show_icons=true&locale=en&layout=compact" alt="github-stats" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushpatel1234&show_icons=true&locale=en" alt="github-stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushpatel1234&" alt="github-streak-stats" /></p>
+
 
 
 
